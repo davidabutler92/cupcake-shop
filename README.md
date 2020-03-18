@@ -5,7 +5,7 @@
 #### By _**{David Butler, Pendleton Thomas}**_
 
 ## Description
-#### We started with Cupcake website and added a list of our available cupcakes with images, styling the text to highlight our best one.
+#### We started with Cupcake website and added a list of our available cupcakes with images, styling the text to highlight our very best one.
 
 ## Setup/Installation Requirements
 * 
