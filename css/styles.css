@@ -17,6 +17,14 @@ li {
   text-align: center;
 }
 
+.best { 
+  color: pink;
+}
+
+.fancy { 
+  color: blue;
+}
+
 img {
   height: 25%;
   width: 25%;
