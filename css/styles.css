@@ -46,6 +46,8 @@ img {
 
 .float {
   float: left;
+  border: 3px;
+  padding: 500px;
 }
 
 .right {
