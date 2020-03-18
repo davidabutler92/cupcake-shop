@@ -1,12 +1,12 @@
 h1 {
-  color:;
+  color: rgb(238, 132, 224);
   text-align: center;
   font-weight: 700;
   font-size: 4em;
 }
 img {
-  height: 300px;
-  width: 50%;
+  height: 25%;
+  width: 25%;
   display: block;
   margin-left: auto;
   margin-right: auto;
