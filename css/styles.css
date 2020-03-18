@@ -20,6 +20,16 @@ li {
 
 .best { 
   color: pink;
+  font-weight: bold;
+  font-style: oblique
+}
+
+.best2 {
+  color: 
+  
+  rgb(94, 207, 41);
+  font-weight: bold;
+  font-style: oblique;
 }
 
 .fancy { 
@@ -45,14 +55,23 @@ img {
 }
 
 .float {
-  float: left;
+  float: center;
   border: 3px;
-  padding: 500px;
+  padding: 25px;
 }
 
 .right {
-  float: right;
-  width: 300px;
-  border: 3px solid #73AD21;
-  padding: 10px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 3px solid pink;
+  padding: 50px;
+  float: center;
+}
+
+.right2 {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 3px solid rgb(94, 207, 41);
+  padding: 50px;
+  float: center;
 }
