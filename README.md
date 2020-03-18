@@ -24,5 +24,5 @@
 #### CSS
 #### Git, Github 
 
-#### Copyright (c) 2016 **_{David Butler, Pendleton Thomas}_**
+#### Copyright (c) 2020 **_{David Butler, Pendleton Thomas}_**
 #### The software is licensed under the MIT license [Click here](License)
